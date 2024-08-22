@@ -21,7 +21,7 @@
 
       if (infoLink) {
         // Append the emoji to the inner text of the link
-        infoLink.innerText += " ðŸ«°";
+        infoLink.innerText += " 🫰";
         console.log("Appended emoji to the link:", infoLink.innerText);
       } else {
         console.log("Found header row but couldn't find torrent-info-link.");
