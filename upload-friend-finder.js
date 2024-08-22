@@ -7,6 +7,8 @@
 // @match        https://passthepopcorn.me/torrents.php?*
 // @icon         https://passthepopcorn.me/favicon.ico
 // @grant        none
+// @downloadURL https://raw.githubusercontent.com/ppaallookkaa/monkey_scripts/main/upload-friend-finder.js
+// @updateURL https://raw.githubusercontent.com/ppaallookkaa/monkey_scripts/main/upload-friend-finder.js
 // ==/UserScript==
 
 (function () {
